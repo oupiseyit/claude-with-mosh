@@ -14,5 +14,11 @@ bun install
 bun add express
 bun add -d @types/express
 ```
-
 - remove folder '.cursor'
+
+## Managing-Openai-Api-Key
+```
+cd package/server
+bun add dotenv
+```
+- create file .env
